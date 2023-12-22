@@ -246,3 +246,15 @@
 
 **117**. [Maven. Жизненный цикл. Плагины](./lessons/117/Maven-ZHiznennyj-cikl-Plaginy.md)
 
+
+
+
+
+***
+
+_Дорогу осилит идущий!_
+
+
+
+[Канал в Telegram](https://t.me/+relA0-qlUYAxZjI6) | [Автор в Telegram](https://t.me/ironicMotherfucker)
+
