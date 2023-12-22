@@ -28,8 +28,10 @@
 Методы барьера мы рассмотрим ниже, но не думаю, что без этого пример будет слишком тяжелым для восприятия:
 
 ```java
-showSum(new int[][]{{1, 1, 1}, {2, 2, 2}, {3, 3, 3}});
-…
+public static void main(String[] args){
+    showSum(new int[][]{{1, 1, 1}, {2, 2, 2}, {3, 3, 3}});
+}
+
 private void showSum(int[][] arr) {
   var sums = new ConcurrentSkipListSet<Integer>();
   Runnable finalSumTask = () -> {
